@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\uplc\documents\visual studio 2017\projects\video\video\source.cpp(210): warning C4101: 'evCode': unreferenced local variable
+c:\users\uplc\documents\visual studio 2017\projects\video\video\source.cpp(244): warning C4101: 'hr': unreferenced local variable
+  video.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\video\Debug\video.exe
+  video.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\video\Debug\video.pdb (Partial PDB)

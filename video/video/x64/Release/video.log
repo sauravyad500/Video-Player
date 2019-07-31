@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(261): warning C4101: 'hr': unreferenced local variable
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  video.vcxproj -> C:\Users\UPLC\Documents\Visual Studio 2017\Projects\video\x64\Release\video.exe
